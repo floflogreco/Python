@@ -1,2 +1,2 @@
-nom = raw_input("Whats your name ?")
+nom = raw_input("What\'s your name ? \n")
 print 'Hello', nom
