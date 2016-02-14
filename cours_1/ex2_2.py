@@ -1,2 +1,3 @@
 nom = raw_input("What\'s your name ? \n")
-print 'Hello', nom
+print "Hello", nom + " !"
+
